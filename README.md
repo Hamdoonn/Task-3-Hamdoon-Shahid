@@ -17,10 +17,10 @@ The client is a premium organic food delivery service. The goal is to design a h
 
 | Deliverable | Description |
 |---|---|
-| Style Tile | Color palette, typography, button styles, and a sample product card — all in one Figma frame |
-| Splash Screen | The first thing users see when they open the app — brand feel, logo, tagline |
+| Style Tile | Color palette, typography, button styles, and a sample product card |
+| Splash Screen | The first thing users see when they open the app, brand feel, logo, tagline |
 | Product List | A scrollable screen showing food items in a clean grid with images, names, and prices |
-| Product Detail | A full product page with hero image, name, price, certifications, and Add to Cart button |
+| Product Detail | A full product page with hero image, name, price and Add to Cart button |
 
 ---
 
